@@ -1,0 +1,39 @@
+.papersNavigation {
+	BACKGROUND-IMAGE: url(/images/editor/ajax/papersNavigationBg.gif); WIDTH: 540px; BACKGROUND-REPEAT: repeat-x; HEIGHT: 93px; BACKGROUND-COLOR: transparent
+}
+.papersNavigation IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+.papersNavigation TD {
+	PADDING-TOP: 10px
+}
+.square {
+	BORDER-RIGHT: #d8d8d8 1px solid; BORDER-TOP: #d8d8d8 1px solid; BACKGROUND-IMAGE: url(/images/roundedModule/squareBg.gif); PADDING-BOTTOM: 17px; BORDER-LEFT: #d8d8d8 1px solid; WIDTH: 141px; BORDER-BOTTOM: #d8d8d8 1px solid; BACKGROUND-REPEAT: repeat-x; TEXT-ALIGN: center
+}
+.title {
+	BACKGROUND-POSITION: 50% bottom; BACKGROUND-IMAGE: url(/images/Features/titleSeparator.gif); MARGIN-BOTTOM: 20px; PADDING-BOTTOM: 5px; WIDTH: 540px; BACKGROUND-REPEAT: repeat-x
+}
+.featureName {
+	PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.featureBody {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 7px; DISPLAY: block; PADDING-LEFT: 15px; FONT-SIZE: 13px; BACKGROUND-IMAGE: url(/images/Features/featuresSeparator.jpg); PADDING-BOTTOM: 20px; WIDTH: 540px; COLOR: #333333; LINE-HEIGHT: 22px; PADDING-TOP: 7px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Helvetica, sans-serif; box-sizing: border-box; moz-box-sizing: border-box
+}
+.featureCategory {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 13px; BACKGROUND-IMAGE: url(/images/Features/featureCategory.gif); MARGIN-BOTTOM: 16px; PADDING-BOTTOM: 0px; COLOR: white; PADDING-TOP: 4px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #7f7f7f; box-sizing: border-box; moz-box-sizing: border-box
+}
+.featureTitle {
+	BACKGROUND-POSITION: 0px 3px; DISPLAY: block; PADDING-LEFT: 21px; FONT-WEIGHT: bold; FONT-SIZE: 13px; BACKGROUND-IMAGE: url(/images/Features/groupArrow.gif); COLOR: #333333; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Helvetica, sans-serif; box-sizing: border-box; moz-box-sizing: border-box
+}
+.FAQ {
+	PADDING-RIGHT: 24px; BACKGROUND-POSITION: 50% bottom; DISPLAY: block; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(/images/Features/FAQs.jpg); PADDING-BOTTOM: 0px; WIDTH: 540px; CURSOR: hand; COLOR: #333333; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 31px; box-sizing: border-box; moz-box-sizing: border-box
+}
+.FAQ A {
+	TEXT-DECORATION: none
+}
+.FAQ A:active {
+	FONT-WEIGHT: bold
+}
+.FAQExpand {
+	PADDING-RIGHT: 2px; DISPLAY: block; PADDING-LEFT: 10px; FONT-SIZE: 12px; PADDING-BOTTOM: 11px; WIDTH: 540px; PADDING-TOP: 6px; box-sizing: border-box; moz-box-sizing: border-box
+}

@@ -1,0 +1,21 @@
+.header {
+	BACKGROUND-POSITION: right bottom; PADDING-LEFT: 5px; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(images/navigation/sideNavCategoryBg.gif); CURSOR: pointer; COLOR: #666666; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Arial,Verdana; HEIGHT: 25px
+}
+.headerSelected {
+	DISPLAY: block; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(images/navigation/sideNavCategorySelectedBg.gif); PADDING-BOTTOM: 7px; CURSOR: pointer; COLOR: #333333; PADDING-TOP: 5px; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Arial,Verdana; HEIGHT: 25px
+}
+.navigation_item {
+	PADDING-LEFT: 7px; FONT-SIZE: 11px; CURSOR: pointer; COLOR: #000000; FONT-FAMILY: Arial,Verdana; HEIGHT: 20px; TEXT-DECORATION: none
+}
+.itemselected {
+	PADDING-LEFT: 7px; FONT-SIZE: 11px; CURSOR: pointer; COLOR: #000000; FONT-FAMILY: Arial,Verdana; HEIGHT: 20px; TEXT-DECORATION: underline
+}
+.page {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 50% bottom; DISPLAY: block; PADDING-LEFT: 5px; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(images/navigation/pageBg.gif); PADDING-BOTTOM: 3px; CURSOR: pointer; COLOR: #666666; PADDING-TOP: 2px; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Arial,Verdana; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.headerSelected {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; HEIGHT: 10px
+}
+.panelbarFooter {
+	FONT-SIZE: 1px; LINE-HEIGHT: 1px; HEIGHT: 1px
+}

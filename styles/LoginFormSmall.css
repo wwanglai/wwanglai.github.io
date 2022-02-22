@@ -1,0 +1,26 @@
+.login_Text{
+	margin-top:5px;
+	margin-bottom:20px;
+	color:#666666;
+	font-family:Verdana, Helvetica, sans-serif;
+	font-size:10px;
+}
+.login_Text A{
+	color:#666666;
+	text-decoration:none;
+}
+.login_Text A:hover{
+	color: #333333;
+}
+.login_CheckBox{
+	margin-top:5px;
+	margin-bottom:20px;
+	color:#666666;
+	font-family:Verdana, Helvetica, sans-serif;
+	font-size:10px;
+}
+.login_KBSearch
+{
+	width:121px;
+	height:18px;
+}
