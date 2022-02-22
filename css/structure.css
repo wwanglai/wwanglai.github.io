@@ -1,0 +1,160 @@
+/* Structure define start here */
+*{
+	margin: 0px;
+	padding: 0px;
+	font-weight:normal;
+	font-size:12px;
+	font-style:normal;
+	list-style-type: none;
+}
+img{border:0px;}
+a{
+	color:#2188c3;
+}
+a:hover{
+	color:#f30;
+}
+br,hr{
+	clear:both;line-height:1px;color:#fff;height:1px;
+	margin:0px 0px;
+	padding:0px;
+	height:2px;
+	border:1px solid #fff;
+	border-top:1px solid #222;
+}
+body{
+		margin-top:5px;
+	font-size:13px;
+}
+#S_BodyWrap1{
+}
+#S_BodyWrap2{
+}
+
+#S_Header{
+}
+#S_HeaderWrap1{
+}
+#S_HeaderWrap2{
+}
+
+#S_Main{
+width:778px;
+}
+#S_MainWrap1{
+	margin-left:5px;
+}
+#S_MainWrap2{
+	border:1px solid #ccc;
+	border-top:0px;
+	padding-left:5px;
+}
+
+#S_Footer
+{
+	width:100%;
+	border-top:3px solid #1267aa;
+	clear:both;
+	margin:0px;
+	margin-top:15px;
+	padding-top:5px;
+}
+#S_FooterWrap1
+{
+
+}
+#S_FooterWrap2
+{
+	padding:5px;
+	line-height:160%;
+
+
+}
+/* MainZone map start */
+#S_MainMid{
+	margin-left:260px;
+	padding:10px 10px 0px 0px;
+}
+#S_MainMidWrap1{
+	/**/
+	height:auto !important;
+	height:750px;
+	min-height:750px !important;
+}
+#S_MainMidWrap2{
+background:#fff;
+}
+
+#S_MainLeft{
+	position:absolute;
+	left:10px;
+	/*float:left;*/
+}
+#S_MainLeftWrap1{
+	width:250px;
+
+}
+#S_MainLeftWrap2{
+		padding-top:5px;
+		width:100%;
+}
+
+#S_MainRight{
+position:absolute;
+right:10px;
+top:250px;
+width:300px;
+}
+#S_MainRightWrap1{
+width:100%;
+}
+#S_MainRightWrap2{
+
+
+}
+/* structure define over */
+.so_btn{
+	border:1px solid #222;
+}
+/* head elements define over */
+
+.law{
+	color:#999;
+	text-decoration:none;
+	padding:4px;
+}
+.law a{
+	color:#069;
+}
+
+.sog{
+	border:1px solid #333;
+	padding:2px;
+	margin:0x 4px;
+	width:265px;
+
+}
+.so_btn{
+	background-color: #ccc;
+	border: 1px solid #333;
+	padding-top: 3px;
+	font-size: 9pt;
+	color:#000;
+}
+.footerLink1 a
+{
+	color:#2188c3;
+	text-decoration:underline;
+}
+.footerLink1 a:hover{
+	color:Red;
+	text-decoration:underline;
+}
+.footerLink2 a{
+	color:#777;
+	text-decoration:underline;
+}
+.footerLink2 a:hover{
+	color:#777;
+	text-decoration:underline;
+}

@@ -1,0 +1,147 @@
+/* r.a.d.menu Plain skin */
+
+.RadMenu_telerikSidePanel 
+{
+	width: 100% !important;
+}
+
+.RadMenu_telerikSidePanel_Context
+{
+	background: none;
+	border:0;
+}
+
+.RadMenu_telerikSidePanel .link
+{
+	text-decoration:none;
+	padding-left:0px;
+	min-width: 200px;
+}
+
+.RadMenu_telerikSidePanel .rootGroup .text
+{
+	background: url(img/groupImage.gif) right center no-repeat !important;
+}
+
+.template
+{
+	float:left;
+}
+
+.MenuTemplate,
+#ctl00_ctl02_panelbarNav_p0_p1,
+#ctl00_ctl02_panelbarNav_p2_p,
+#ctl00_ctl02_panelbarNav_p1_p1
+{
+	float:left;
+}
+
+.RadMenu_telerikSidePanel .group .text
+{
+	font-size: 11px;
+	font-family: Verdana, Arial;
+	background: none !important;
+	padding: 0px 0px 0px 24px !important;
+	color: #666666 !important;
+}
+
+.RadMenu_telerikSidePanel .group
+{
+	border-top: solid 1px #e4e4e4;
+	border-bottom: solid 1px #ebebeb;
+}
+
+.RadMenu_telerikSidePanel .group .link
+{
+	background: #fbfbfb;
+	text-align: left;
+	height: 17px !important;
+	line-height: 17px !important;
+	padding: 0px !important;
+}
+
+
+.RadMenu_telerikSidePanel .rootGroup .link:hover,
+.RadMenu_telerikSidePanel .rootGroup .focused,
+.RadMenu_telerikSidePanel .rootGroup .expanded,
+.RadMenu_telerikSidePanel .rootGroup .link:hover .text,
+.RadMenu_telerikSidePanel .rootGroup .focused .text,
+.RadMenu_telerikSidePanel .rootGroup .expanded .text
+{
+	background-color: #fbfbfb;
+	color: #83ca07 !important;
+}
+
+
+.RadMenu_telerikSidePanel .group .link:hover,
+.RadMenu_telerikSidePanel .group .focused,
+.RadMenu_telerikSidePanel .group .expanded,
+.RadMenu_telerikSidePanel .group .link:hover .text,
+.RadMenu_telerikSidePanel .group .focused .text,
+.RadMenu_telerikSidePanel .group .expanded .text
+{
+	background-color: white;
+}
+
+.RadMenu_telerikSidePanel .leftArrow,
+.RadMenu_telerikSidePanel .rightArrow,
+.RadMenu_telerikSidePanel .topArrow,
+.RadMenu_telerikSidePanel .bottomArrow,
+.RadMenu_telerikSidePanel .leftArrowDisabled,
+.RadMenu_telerikSidePanel .rightArrowDisabled,
+.RadMenu_telerikSidePanel .topArrowDisabled,
+.RadMenu_telerikSidePanel .bottomArrowDisabled
+{
+	background: #ededed url('img/left.gif') center center no-repeat;
+	width:15px;
+}
+
+.RadMenu_telerikSidePanel .topArrow,
+.RadMenu_telerikSidePanel .topArrowDisabled
+{
+	background-image:url('img/top.gif');
+	width:100%;
+}
+
+.RadMenu_telerikSidePanel .bottomArrow,
+.RadMenu_telerikSidePanel .bottomArrowDisabled
+{
+	background-image:url('img/bottom.gif');
+	width:100%;
+}
+
+.RadMenu_telerikSidePanel .rightArrow,
+.RadMenu_telerikSidePanel .leftArrow
+{
+	height:100%;
+}
+
+.RadMenu_telerikSidePanel .rightArrow,
+.RadMenu_telerikSidePanel .rightArrowDisabled
+{
+	background-image: url('img/right.gif');
+}
+
+.RadMenu_telerikSidePanel .vertical .separator .text
+{
+	padding-top: 2px;
+	background: #ccc;
+	font-size: 1px;
+}
+
+.RadMenu_telerikSidePanel .expandLeft,
+.RadMenu_telerikSidePanel .expandRight
+{
+	background: red url(img/groupImage.gif) right center no-repeat;
+	margin-right: 10px;
+}
+
+.RadMenu_telerikSidePanel .link:hover .expandLeft,
+.RadMenu_telerikSidePanel .link:hover .expandRight,
+.RadMenu_telerikSidePanel .focused .expandLeft,
+.RadMenu_telerikSidePanel .focused .expandRight,
+.RadMenu_telerikSidePanel .expanded .expandLeft,
+.RadMenu_telerikSidePanel .expanded .expandRight
+{
+	background:transparent url(img/invertedGroupImage.gif) right center no-repeat;
+}

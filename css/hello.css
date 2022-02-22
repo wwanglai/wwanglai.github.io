@@ -1,0 +1,113 @@
+/* CSS Document */
+.declared{
+color: red;
+font-family: arial;
+font-weight: normal;
+font-size: 20px;
+}
+.programmed{
+color: blue;
+font-family: helvetica;
+font-weight: bold;
+font-size: 30px;
+}
+
+.menu {
+  background-color: #40a0c0;
+  border-color: #80e0ff #006080 #006080 #80e0ff;
+  border-style: solid;
+  border-width: 2px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+}
+
+a.menuItem {
+  color: #ffffff;
+  cursor: default;
+  display: block;
+  font-family: MS Sans Serif, Arial, Tahoma,sans-serif;
+  font-size: 8pt;
+  font-weight: bold;
+  padding: 2px 12px 2px 8px;
+  text-decoration: none;
+}
+
+a.menuItem:hover {
+  background-color: #004060;
+  color: #ffff00;
+}
+
+.musicalKeys_Static{
+background-color: #ffe0d0;
+border: solid maroon 2px;
+position: absolute;
+overflow: auto;
+margin: 4px;
+}
+
+
+.musicalKeys{
+background-color: #ffe0d0;
+border: solid maroon 2px;
+width: 536px;
+height: 68px;
+top: 24px;
+left: 24px;
+margin: 4px;
+position: absolute;
+overflow: auto;
+}
+
+.toplong{
+width: 536px;
+height: 68px;
+top: 64px;
+left: 24px;
+}
+.sidebar{
+width: 100px;
+height: 736px;
+top: 64px;
+left: 570px;
+}
+
+.body{
+background-color: white;
+}
+
+
+
+.musicalButton{
+border: solid navy 1px;
+width: 60px;
+height: 60px;
+position: relative;
+margin: 2px;
+float: left;
+}
+
+.do{ background-color: red; }
+.re{ background-color: orange; }
+.mi{ background-color: yellow; }
+.fa{ background-color: green; }
+.so{ background-color: blue; }
+.la{ background-color: #0000CD; }
+.ti{ background-color: #4B0082; }
+
+div.console{
+font-family: arial, helvetica;
+font-size: 16px;
+/*
+color: navy;
+background-color: white;
+*/
+border: solid navy 2px;
+width: 536px;
+height: 320px;
+top: 146px;
+left: 24px;
+margin: 4px;
+position: absolute;
+overflow: auto;

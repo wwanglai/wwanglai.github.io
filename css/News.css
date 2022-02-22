@@ -1,0 +1,18 @@
+.newsTitle {
+	DISPLAY: block; FONT-WEIGHT: bold; FONT-SIZE: 12px; FLOAT: left; WIDTH: 540px; CURSOR: url('./images/News/handExpand.cur'); COLOR: #333333; LINE-HEIGHT: 18px; BORDER-BOTTOM: #dadada 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 54px; TEXT-DECORATION: none! important
+}
+.newsDate {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #999999; PADDING-TOP: 9px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.newsExpand {
+	CLEAR: both; BACKGROUND-POSITION: right bottom; BORDER-TOP: white 1px solid; BACKGROUND-IMAGE: url(../images/News/newsBgDown.jpg); WIDTH: 540px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #fafafa
+}
+.newsExpandedInner {
+	PADDING-RIGHT: 23px; PADDING-LEFT: 27px; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/News/newsBgUp.jpg); PADDING-BOTTOM: 16px; COLOR: #333333; LINE-HEIGHT: 18px; PADDING-TOP: 22px; BORDER-BOTTOM: #dadada 1px solid; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 100%
+}
+.newsHomeDate {
+	DISPLAY: block; FLOAT: left; WIDTH: 74px; PADDING-TOP: 2px; HEIGHT: 30px
+}
+.newsHomeText {
+	DISPLAY: block; BACKGROUND: url(../images/homepage/newsSeparator.gif) repeat-x left bottom; OVERFLOW: hidden; WIDTH: 255px; PADDING-TOP: 1px; HEIGHT: 31px; TEXT-OVERFLOW: ellipsis
+}
